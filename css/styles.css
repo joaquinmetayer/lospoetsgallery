@@ -1,0 +1,41 @@
+*{
+    font-family: brandon-grotesque,sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 1.35em;
+    letter-spacing: .05em;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+#home{
+    background-color: #141414;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    font-size: 0.8em;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 10em;
+    padding-bottom: 3em ;
+}
+#logosmall{
+    padding-bottom: 2em;
+    width: 1em;
+}
+#logoname{
+    width: 12em;
+}
+#homephrase{
+    font-family: monospace;
+    font-weight: 0;
+    font-size: 15.5px;
+    padding-top: 2em;
+}
