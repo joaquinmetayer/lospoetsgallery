@@ -23,19 +23,55 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    max-width: 10em;
-    padding-bottom: 3em ;
+    max-width: 8em;
+    padding-bottom: 1em ;
 }
 #logosmall{
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     width: 1em;
 }
 #logoname{
-    width: 12em;
+    width: 10em;
 }
 #homephrase{
     font-family: monospace;
     font-weight: 0;
-    font-size: 15.5px;
-    padding-top: 2em;
+    font-size: 13px;
+    margin-top: 2em;
+}
+#discover{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 8.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: 4px solid #fff;
+    outline-offset: -4px;
+    height: 64px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#discover span {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+#oficialbtn{
+    margin: 1em;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+#oficialbtn span {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 3px;
+    font-size: 10px;
 }
