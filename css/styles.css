@@ -223,6 +223,7 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
     text-transform: uppercase;
     line-height: 2em;
     padding: 0.5em;
+    text-align: center;
 }
 .description p {
     padding: 1em;
@@ -252,10 +253,9 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
     font-size: 1.3em;
     padding-left: 2em;
 }
-
 #footer {
     padding: 1em;
-    background-color: #141414;
+    background-color: #f7f7f7;
 } 
 #footer a, #footer p {
     letter-spacing: 3px;
@@ -264,5 +264,30 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
     margin: 0 auto;
     text-transform: uppercase;
     text-decoration: none;
-    color: #fff;
+    color: #000;
+}
+@media (max-width: 1300px) {
+    .card{
+        width: 20%;
+    }
+}
+@media (max-width: 900px) {
+    .card{
+        width: 40%;
+    }
+    .phrase{
+        flex-direction: column;
+    }
+    .phrase img{
+        padding-bottom: 2em ;
+    }
+    .phrase h2{
+        padding: 0;
+        text-align: center;
+    }
+}
+@media (max-width: 500px) {
+    .card{
+        width: 100%;
+    }
 }
