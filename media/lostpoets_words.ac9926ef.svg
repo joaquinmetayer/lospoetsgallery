@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 904 120">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: white;
+            }
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-1" width="96" height="24" />
+            <rect class="cls-1" y="32" width="48" height="24" />
+            <rect class="cls-1" x="56" y="32" width="136" height="24" />
+            <rect class="cls-1" x="208" y="64" width="136" height="24" />
+            <rect class="cls-1" x="680" y="64" width="136" height="24" />
+            <rect class="cls-1" x="144" y="96" width="136" height="24" />
+            <rect class="cls-1" x="200" y="32" width="32" height="24" />
+            <rect class="cls-1" x="640" y="64" width="32" height="24" />
+            <rect class="cls-1" x="240" y="32" width="80" height="24" />
+            <rect class="cls-1" x="352" y="64" width="80" height="24" />
+            <rect class="cls-1" x="328" y="32" width="120" height="24" />
+            <rect class="cls-1" x="664" y="32" width="120" height="24" />
+            <rect class="cls-1" x="512" y="64" width="120" height="24" />
+            <rect class="cls-1" x="456" y="32" width="64" height="24" />
+            <rect class="cls-1" x="328" y="96" width="64" height="24" />
+            <rect class="cls-1" x="440" y="64" width="64" height="24" />
+            <rect class="cls-1" x="528" y="32" width="32" height="24" />
+            <rect class="cls-1" x="568" y="32" width="88" height="24" />
+            <rect class="cls-1" x="104" width="40" height="24" />
+            <rect class="cls-1" y="96" width="40" height="24" />
+            <rect class="cls-1" x="120" y="64" width="40" height="24" />
+            <rect class="cls-1" x="816" width="40" height="24" />
+            <rect class="cls-1" x="152" width="112" height="24" />
+            <rect class="cls-1" y="64" width="112" height="24" />
+            <rect class="cls-1" x="792" y="32" width="112" height="24" />
+            <rect class="cls-1" x="272" width="88" height="24" />
+            <rect class="cls-1" x="48" y="96" width="88" height="24" />
+            <rect class="cls-1" x="368" width="32" height="24" />
+            <rect class="cls-1" x="288" y="96" width="32" height="24" />
+            <rect class="cls-1" x="824" y="64" width="32" height="24" />
+            <rect class="cls-1" x="168" y="64" width="32" height="24" />
+            <rect class="cls-1" x="776" width="32" height="24" />
+            <rect class="cls-1" x="408" width="80" height="24" />
+            <rect class="cls-1" x="688" width="80" height="24" />
+            <rect class="cls-1" x="496" width="128" height="24" />
+            <rect class="cls-1" x="632" width="48" height="24" />
+        </g>
+    </g>
+</svg>

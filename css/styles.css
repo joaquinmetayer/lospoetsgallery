@@ -212,7 +212,10 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+    margin: 0 auto;
+}
+.lastdescription{
+    padding-bottom: 3em;
 }
 .description h2{
     font-size: 1.5em;
@@ -221,13 +224,18 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
     line-height: 2em;
     padding: 0.5em;
 }
-.description p{
+.description p {
     padding: 1em;
     font-family: aglet-mono, monospace;
     font-weight: 0;
     font-size: 20px;
     max-width: 45em;
 }
+.descriptionimg{
+    max-width: 37.5em;
+    padding: 1em
+}
+
 .phrase{
     padding: 3em;
     display: flex;
