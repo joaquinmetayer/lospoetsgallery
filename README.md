@@ -2,7 +2,7 @@
 
 A "semi-clone" for website and NFT collection <a href="https://lostpoets.xyz/"><b>Lost Poets</b></a>
 
-Live view on https://joaquinmetayer.github.io/lostpoets/
+Live view on https://lostpoets.netlify.app/
 
 Pure HTML and CSS.
 
